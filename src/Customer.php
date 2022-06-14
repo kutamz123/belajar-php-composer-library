@@ -1,5 +1,7 @@
 <?php
 
+namespace Belajar\Library;
+
 class Customer
 {
 
