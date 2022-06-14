@@ -1,0 +1,19 @@
+{
+  "name": "intiwid/belajar-php-composer-library",
+  "description": "belajar php composer library",
+  "type": "library",
+  "authors": [
+    {
+      "name": "kutamz123",
+      "email": "andikautama034@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Belajar\\Library\\": "src/"
+    }
+  }
+}
